@@ -84,7 +84,7 @@ export const Dashboard = () => {
       <div className="h-lvh grid grid-cols-2 bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `url(${bgImage})` }}>
         <div className="text-green-800 items-center flex flex-col justify-center px-24">
           <div className="font-extrabold text-6xl items-center">
-            Tag Trash
+            TagTrash
           </div>
           <div className="pt-8 text-xl">
           Tagging waste intelligently for a cleaner world.
