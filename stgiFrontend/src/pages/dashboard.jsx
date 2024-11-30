@@ -90,7 +90,7 @@ export const Dashboard = () => {
           Tagging waste intelligently for a cleaner world.
           </div>
           <div className="text-center text-xl">
-            <img src="./src/assets/rec" alt="" />
+            <img src="./src/assets/recycle-pic.png" alt="" />
           </div>
         </div>
         <div className="flex flex-col justify-center items-center m-14">
